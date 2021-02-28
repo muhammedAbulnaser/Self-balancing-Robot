@@ -2,7 +2,7 @@
  * I2C_prog.c
  *
  *  Created on: Oct 5, 2018
- *  Author: Abdulnaser
+ *      Author: Abdulnaser
  */
 
 #include "LIB/std_types.h"
